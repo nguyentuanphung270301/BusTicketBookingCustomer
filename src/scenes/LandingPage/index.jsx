@@ -28,19 +28,19 @@ const LandingPage = () => {
       >
         <SwiperSlide>
           <img
-            src="src/assets/BusImages/chair_img.jpg"
+            src="../../../src/assets/BusImages/chair_img.jpg"
             style={{ width: "100%", height: "400px", borderRadius: "10px" }}
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
-            src="src/assets/BusImages/bed_img.jpg"
+            src="../../../src/assets/BusImages/bed_img.jpg"
             style={{ width: "100%", height: "400px", borderRadius: "10px" }}
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
-            src="src/assets/BusImages/limousine_img.jpg"
+            src="../../../src/assets/BusImages/limousine_img.jpg"
             style={{ width: "100%", height: "400px", borderRadius: "10px" }}
           />
         </SwiperSlide>
