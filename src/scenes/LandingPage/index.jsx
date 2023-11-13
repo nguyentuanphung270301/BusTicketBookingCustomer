@@ -28,7 +28,7 @@ const LandingPage = () => {
       >
         <SwiperSlide>
           <img
-            src="../../../assets/BusImages/chair_img.jpg"
+            src="src/assets/BusImages/chair_img.jpg"
             style={{ width: "100%", height: "400px", borderRadius: "10px" }}
           />
         </SwiperSlide>
